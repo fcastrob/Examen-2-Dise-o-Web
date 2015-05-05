@@ -1,0 +1,26 @@
+/*Element Selectors*/
+@media print {
+	header{width:100%;}
+
+	h1{width:100%;}
+
+	nav { display:none;}
+	
+	article{width:100%;}
+	
+	p{width:100%;}
+
+	section{width:100%;}
+	
+	aside{width:100%;}
+
+	img{display:none;}
+	
+	aside section p.subP{
+	border: none;
+	background-color: none;
+	margin:1px;
+	}
+
+	footer div{margin-top:15px;}
+}
